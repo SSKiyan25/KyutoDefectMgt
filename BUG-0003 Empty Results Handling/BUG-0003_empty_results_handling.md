@@ -1,4 +1,4 @@
-# SEARCH-0004: Search - Empty Results Handling
+# SEARCH-0005: Search - Empty Results Handling
 
 [Summary]
 When a search query returns no results, the system fails to display a "No Results Found" message in the search bar. This leaves users uncertain whether the search was processed correctly or if there are truly no matching results.
