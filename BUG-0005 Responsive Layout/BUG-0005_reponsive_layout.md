@@ -1,4 +1,4 @@
-# UI-0008: UI - Map Component Not Mobile-Friendly
+# STORE-0004: UI - Map Component Not Mobile-Friendly
 
 [Summary]
 The main map component of the ViSiTa application is not responsive and does not display properly on mobile devices. The map fails to adapt to smaller screen sizes, resulting in poor usability, difficulty accessing store icons, and parts of the map being cut off or inaccessible on mobile devices.
