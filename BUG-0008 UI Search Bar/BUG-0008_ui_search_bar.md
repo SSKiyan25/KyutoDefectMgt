@@ -1,4 +1,4 @@
-# SEARCH-0006: Search Bar UI Missing Critical Functionality
+# UI-0003: Search Bar UI Missing Critical Functionality
 
 [Summary]
 The search bar UI component lacks necessary interface elements to support both combined search functionality and proper empty results handling. The current implementation does not provide clear visual cues or controls for combined searches, nor does it display appropriate feedback when searches return no results.
